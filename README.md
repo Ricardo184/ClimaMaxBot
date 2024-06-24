@@ -27,3 +27,7 @@ Uso
 ### Considerações Finais
 
 Mesmo com essa abordagem simplificada, você ainda mantém suas chaves seguras e permite que outros usuários facilmente configurem o projeto em seus próprios ambientes.
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LICENSE para mais detalhes.
