@@ -1,7 +1,7 @@
 # ClimaMax Bot
 
 ClimaMax Bot é um bot do Telegram que fornece informações meteorológicas detalhadas para diversas cidades.
-![imagem do projeto](main/Imagem.jpg)
+![imagem do projeto](https://raw.githubusercontent.com/Ricardo184/ClimaMaxBot/main/Imagem.jpg)
 
 ## Configuração
 
