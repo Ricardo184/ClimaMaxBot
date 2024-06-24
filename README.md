@@ -30,4 +30,4 @@ Mesmo com essa abordagem simplificada, você ainda mantém suas chaves seguras e
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a [Licença MIT](https://github.com/Ricardo184/ClimaMaxBot/blob/main/LICENSE.md) - veja o arquivo LICENSE para mais detalhes.
